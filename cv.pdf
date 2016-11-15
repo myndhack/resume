@@ -1,0 +1,12 @@
+--2016-11-15 16:32:09--  http://latex.informatik.uni-halle.de/latex-online/temp/olatex_1644670_IHQycbYqBtqJ.pdf
+Resolviendo latex.informatik.uni-halle.de (latex.informatik.uni-halle.de)... 141.48.9.10
+Conectando con latex.informatik.uni-halle.de (latex.informatik.uni-halle.de)[141.48.9.10]:80... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 63634 (62K) [application/pdf]
+Grabando a: “olatex_1644670_IHQycbYqBtqJ.pdf”
+
+     0K .......... .......... .......... .......... .......... 80%  101K 0s
+    50K .......... ..                                         100% 3,22M=0,5s
+
+2016-11-15 16:32:10 (124 KB/s) - “olatex_1644670_IHQycbYqBtqJ.pdf” guardado [63634/63634]
+
